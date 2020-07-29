@@ -1,0 +1,10 @@
+{
+  "name": "js-zslfhb",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap-vue": "^2.15.0",
+    "spa-central-styles-free": "^1.0.5",
+    "vue": "^2.6.11"
+  }
+}
